@@ -4,7 +4,7 @@
 
 **Author**: [Majed El Helou](https://majedelhelou.github.io/) (Media Technology Center ETH Zurich - [MTC](https://mtc.ethz.ch/))
 
-**Paper**: [arxiv preprint](https://arxiv.org/abs/2011.01406)
+**Paper**: [arxiv preprint](https://arxiv.org/abs/2306.14891)
 
 **Publisher**: IEEE International Conference on Image Processing
 
